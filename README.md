@@ -22,7 +22,7 @@ The main objectives of the project are:
 
 ### HTML Files
 - **index.html (Home Page):** This file serves as the main entry point to the website. It features previews of our apparel collections, highlights signature products, and incorporates interactive elements for user engagement. The layout is designed to guide visitors naturally through our offerings while emphasizing our brand’s aesthetic and core values.  
-- **about.html (About Us Page):** This file tells our origin story and shares our brand philosophy. It includes structured sections that explain our Singaporean roots, commitment to environmental awareness, and the “vomfy” ethos—a combination of comfort and style. The page also uses images to visually support the narrative.  
+- **aboutus.html (About Us Page):** This file tells our origin story and shares our brand philosophy. It includes structured sections that explain our Singaporean roots, commitment to environmental awareness, and the “vomfy” ethos—a combination of comfort and style. The page also uses images to visually support the narrative.  
 
 ### CSS and SASS Files
 - **style.css / style.scss:** These files contain the main styling rules for the website. CSS is used to define layout, typography, color schemes, and responsiveness, while SASS is utilized to manage variables, nesting, and modularity efficiently. The choice to use SASS was deliberate; it allows for easier maintenance and future scaling of the website as the brand grows. Styling decisions focused on combining a youthful, modern aesthetic with readability and accessibility.  
